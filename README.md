@@ -49,9 +49,11 @@ _Jun 2020 – Jun 2021_
 ---
 
 🌐 **Connect with Me**  
-[LinkedIn](https://www.linkedin.com/in/barkha-maheshwari/)  
-Email: barkhamaheshwari23@gmail.com  
-
+- [LinkedIn](https://www.linkedin.com/in/barkha-maheshwari/)  
+- [LeetCode](https://leetcode.com/u/barkha_23/)  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/b2397m/)  
+- [Stack Overflow](https://stackoverflow.com/users/13284692/user2580)  
+- 📧 Email: barkhamaheshwari23@gmail.com 
 <!--
 **smasher2508/smasher2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
