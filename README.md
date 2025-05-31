@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Barkha Maheshwari
 
 🚀 **About Me**  
-I'm a Lead Product Engineer at [Loyalty Juggernaut](https://www.loyaltyjuggernaut.com/), currently based in Hyderabad, India. I specialize in building scalable backend systems, cloud-native applications, and secure APIs. With a background spanning mobile and backend development, I bring a product-focused mindset to engineering high-performance solutions for enterprise platforms.
+I'm a Lead Product Engineer at [Loyalty Juggernaut](https://www.lji.io/), currently based in Hyderabad, India. I specialize in building scalable backend systems, cloud-native applications, and secure APIs. With a background spanning mobile and backend development, I bring a product-focused mindset to engineering high-performance solutions for enterprise platforms.
 
 ---
 
